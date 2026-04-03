@@ -18,7 +18,7 @@ The funnel tracks 30,000 visitors through the purchasing process. While the init
 ## 📈 Visual Analysis
 The chart below highlights the steady flow of users until the final "Complete Order" action, where all revenue is lost.
 
-![Sales Funnel Chart](sales_funnel_chart.png)
+![Sales Funnel Chart](sales_funnel_chart.png.png)
 
 ## 🧐 Diagnostic & Hypotheses
 A **0% completion rate** after 12,500+ people reached the payment window is a clear indicator of a **technical blocker** rather than a lack of interest.
